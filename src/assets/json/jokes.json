@@ -1,19 +1,18 @@
 [
-    {
-        "id": 1,
-"joke": "What do you call a fish with no eyes? Fsh"
-    },
-    {
-"id": 2,
-"joke":
-"I was wondering why the frisbee was getting bigger, then it hit me."
-    },
-    {
-"id": 3,
-"joke": "Don't try to laugh me !"
-    },
-    {
-        "id":4,
-        "joke": "What do you call a fish with no eyes? Fsh. Oh Again same Joke, Please try something new.."
-    }
+  {
+    "id": 1,
+    "joke": "What do you call a fish with no eyes? Fsh"
+  },
+  {
+    "id": 2,
+    "joke": "I was wondering why the frisbee was getting bigger, then it hit me."
+  },
+  {
+    "id": 3,
+    "joke": "Don't try to laugh me !"
+  },
+  {
+    "id": 4,
+    "joke": "What do you call a fish with no eyes? Fsh. Oh Again same Joke, Please try something new.."
+  }
 ]

@@ -1,14 +1,15 @@
-import laughing from ' ./assets/laughing.svg';
-import './style.css';
-import generateJoke from '/laughing-js';
+import laughing from "./assets/laughing.svg"
 
-const laughImg = document. getElementById ("laughImg");
-laughImg.src = laughing;
+import "./style.css"
+import generateJoke from "./laughing.js"
 
-const joke = document.getElementById ("joke");
-joke.innerHTML = generateJoke();
+const laughImg = document.getElementById("laughImg")
+laughImg.src = laughing
 
-const jokeBtn = document-getElementById ("jokeBtn");
-jokeBtn.addEventListener('click', () => {
-    joke.innerHTML = generateJoke();
-});
+const joke = document.getElementById("joke")
+joke.innerHTML = generateJoke()
+
+const jokeBtn = document.getElementById("jokeBtn")
+jokeBtn.addEventListener("click", () => {
+  joke.innerHTML = generateJoke()
+})

@@ -1,27 +1,25 @@
 body {
-
-    background-color:steelblue;
+  background-color: steelblue;
 }
 
-    .container {
-    background-color: white;
-    margin: auto; 
-    padding: 12px; 
-    width: 40%;
-    text-align: center; 
-    border-radius: 10px; 
-    margin-top: 100px;
-    }
-    .joke {
-    padding: 16px;
-    }
-    .jokeBtn {
-    padding: 12px; 
-    border-radius: 10px;
-    border: none; 
-    background-color:white;
-    color: white;
-    font-weight: bold;
-    cursor: pointer;
-    }
-    
+.container {
+  background-color: white;
+  margin: auto;
+  padding: 12px;
+  width: 40%;
+  text-align: center;
+  border-radius: 10px;
+  margin-top: 100px;
+}
+.joke {
+  padding: 16px;
+}
+.jokeBtn {
+  padding: 12px;
+  border-radius: 10px;
+  border: none;
+  background-color: white;
+  color: white;
+  font-weight: bold;
+  cursor: pointer;
+}
